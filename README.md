@@ -2,7 +2,7 @@
 # 📊 Statistics for Data Science
 
 Welcome to the **Statistics for Data Science** repository!  
-This repo is dedicated to understanding core statistical concepts essential for data analysis, machine learning, and AI.
+This repo is dedicated to understanding core statistical concepts essential for data Science, machine learning, and AI.
 
 ---
 
